@@ -1,7 +1,3 @@
-/*
-	Aluno: Cassio Pereira de lima
-	Matricula: 20180035995
-*/
 #include <stdio.h>
 #define LIM 10
 
